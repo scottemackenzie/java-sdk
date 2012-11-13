@@ -43,5 +43,5 @@
   <ciManagement>
   	<system>Jenkins</system>
   </ciManagement>
-  <url>https://github.com/wuchubuzai/java-sdk</url>
+  <url>https://github.com/scottemackenzie/java-sdk</url>
 </project>
